@@ -1,2 +1,2 @@
-# CURIOSITY-PROJECT
+# CURIOSITY-PROJECT-2018
 This a behavioral task coded using psych tool box in MATLAB. This task was designed as part of the project which aimed to study how agency affects curiosity. The task measures how the user naviagte through the information space. The information space contains specific information on five countries from three continents such as its culture, economics, natural habitat, food etc. The program tracks what order they read the information, how much time they spend under each section, and their curiosity and interest ratings of each section.
